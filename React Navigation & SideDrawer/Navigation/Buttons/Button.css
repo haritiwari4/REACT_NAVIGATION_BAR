@@ -1,0 +1,53 @@
+.My-btn{
+    background-color:inherit;
+    padding:4px 12px;
+    background-color: #95c9e2;
+    border:0;
+    cursor: pointer;
+    color:#fff;
+    transition: all ease 0.2s;
+}
+.My-btn:hover{
+    color:#fff;
+    background-color:#95c9e2;
+}
+.boys-color{
+    background-color:#95c9e2;
+}
+.girls-color{
+    background-color: #f6a9be;
+}
+.My-btn:focus{
+    outline: none;
+}
+.red{
+    border:1px solid red;
+    background-color: inherit;
+    color:#111;
+    
+}
+.red:hover, .red:active{
+    background-color:red;
+    color:#fff;
+}
+.big{
+    padding:6px 25px;
+    font-size:110%;
+    letter-spacing: 1px;
+    color:#fff;
+    background-color: #95c9e2;
+    box-shadow: 10px 20px 30px #eee;
+}
+.big:active{
+   box-shadow: 0px 0px 0px #eee;
+}
+.white{
+    background-color: #fff;
+    color:#0080ff;
+    padding:8px 2rem;
+    box-shadow: 0px 0px 0px #fff;
+}
+.white:hover{
+    background-color: #fff;
+    color:#0080ff
+}
